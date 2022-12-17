@@ -1,0 +1,19 @@
+{
+  "id": "number",
+  "first_name": "fname",
+  "last_name": "Bradtke",
+  "email": "wBBbX@uk.com",
+  "foods": [
+    "Chappati",
+    "bread"
+  ],
+  "jobs": {
+    "designation": "manager",
+    "location": "london",
+    "responsibilities": [
+      "teaching",
+      "reporting",
+      "meetings"
+    ]
+  }
+}

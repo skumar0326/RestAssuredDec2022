@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/RestAssuredDec2022"><classes><class name="com.ApiFrameWork.Restassured.GetTests"><methods><include name="getRequest"/></methods></class><class name="com.ApiFrameWork.Restassured.PostTests"><methods><include name="testPostRequest"/><include name="postRequestFromExternalFile"/></methods></class></classes></test></suite>

@@ -1,0 +1,19 @@
+{
+  "id": "383",
+  "first_name": "Kenya",
+  "last_name": "Bradtke",
+  "email": "wBBbX@uk.com",
+  "foods": [
+    "Chappati",
+    "bread"
+  ],
+  "jobs": {
+    "designation": "manager",
+    "location": "london",
+    "responsibilities": [
+      "teaching",
+      "reporting",
+      "meetings"
+    ]
+  }
+}

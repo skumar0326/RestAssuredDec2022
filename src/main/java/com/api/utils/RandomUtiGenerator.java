@@ -1,11 +1,11 @@
-package com.api.test;
+package com.api.utils;
 
 public final class RandomUtiGenerator {
     // business layer
     private RandomUtiGenerator(){}
 
     public static int getId(){
-        return FakerUtils.getId(200,500);
+        return FakerUtils.getId(600,1000);
     }
 
     public static String getFName(){

@@ -2,10 +2,7 @@ package com.api.pojo;
 
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import java.util.List;
 
@@ -18,11 +15,12 @@ import java.util.List;
 public class Employee {
 
     private int id;
+    @Setter
     private String first_name;
     private String last_name;
     private  String email;
     private List<String> foods;
-    private jobs jobs;
+    private Jobs jobs;
 
 
 }

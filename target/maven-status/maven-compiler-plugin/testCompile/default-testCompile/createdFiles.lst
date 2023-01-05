@@ -1,2 +1,5 @@
+com\ApiFrameWork\Restassured\Assignment.class
+authentication\AuthenAndAuthorisation.class
 com\ApiFrameWork\Restassured\GetTests.class
+com\ApiFrameWork\Restassured\BaseClass.class
 com\ApiFrameWork\Restassured\PostTests.class

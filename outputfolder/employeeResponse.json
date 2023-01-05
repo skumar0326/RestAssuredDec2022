@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "first_name": "default shirish",
+  "last_name": "Wehner",
+  "email": "SFboi@uk.com",
+  "foods": [
+    "chapathi",
+    "curry"
+  ],
+  "jobs": {
+    "designation": "london",
+    "location": "guil",
+    "responsibilities": [
+      "manager",
+      "organizing"
+    ]
+  }
+}

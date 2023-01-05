@@ -1,15 +1,13 @@
 package com.api.com.api.properties;
 
 import com.api.com.frameworkconstants.FilePathConstants;
-import com.api.enu.PropertyType;
+import com.api.enums.PropertyType;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
-import java.util.Set;
 
 public final class ConfigProperties {
 
